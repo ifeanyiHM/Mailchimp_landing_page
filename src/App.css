@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Domine&family=Fira+Sans:wght@200;300;400&family=Old+Standard+TT&display=swap');
+
+:root{
+    --primary-color: #ffe01b;
+    --secondary-color: #fff;
+    --hover-color: invert(74%) sepia(65%) saturate(6504%) hue-rotate(149deg) brightness(96%) contrast(81%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira Sans','Old Standard TT', 'Dela Gothic One', sans-serif, serif;
+}
+
+/* .App{
+    height: 100vh;
+    overflow: hidden;
+} */

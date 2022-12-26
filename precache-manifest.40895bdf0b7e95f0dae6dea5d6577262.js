@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "31b0a0a9e77931d84569",
-    "url": "/Mailchimp_landing_page/static/css/main.858dd76f.chunk.css"
+    "revision": "b9779803e5d89ec30d9b",
+    "url": "/Mailchimp_landing_page/static/css/main.d99bdc82.chunk.css"
   },
   {
-    "revision": "31b0a0a9e77931d84569",
-    "url": "/Mailchimp_landing_page/static/js/main.31b0a0a9.chunk.js"
+    "revision": "b9779803e5d89ec30d9b",
+    "url": "/Mailchimp_landing_page/static/js/main.b9779803.chunk.js"
   },
   {
     "revision": "ab80dc7d84887c77b59e",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/Mailchimp_landing_page/static/media/phone-solid.de37f482.svg"
   },
   {
-    "revision": "0f14c0562def5e7b0490089c672d98f6",
+    "revision": "bd60e2333e497c6e749d22c98b33fabe",
     "url": "/Mailchimp_landing_page/index.html"
   }
 ];

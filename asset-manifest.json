@@ -1,7 +1,7 @@
 {
-  "main.css": "/Mailchimp_landing_page/static/css/main.858dd76f.chunk.css",
-  "main.js": "/Mailchimp_landing_page/static/js/main.31b0a0a9.chunk.js",
-  "main.js.map": "/Mailchimp_landing_page/static/js/main.31b0a0a9.chunk.js.map",
+  "main.css": "/Mailchimp_landing_page/static/css/main.d99bdc82.chunk.css",
+  "main.js": "/Mailchimp_landing_page/static/js/main.b9779803.chunk.js",
+  "main.js.map": "/Mailchimp_landing_page/static/js/main.b9779803.chunk.js.map",
   "static/css/1.0cc71d81.chunk.css": "/Mailchimp_landing_page/static/css/1.0cc71d81.chunk.css",
   "static/js/1.ab80dc7d.chunk.js": "/Mailchimp_landing_page/static/js/1.ab80dc7d.chunk.js",
   "static/js/1.ab80dc7d.chunk.js.map": "/Mailchimp_landing_page/static/js/1.ab80dc7d.chunk.js.map",
@@ -24,9 +24,9 @@
   "static/media/menu.svg": "/Mailchimp_landing_page/static/media/menu.40d16fb1.svg",
   "static/media/Arrowback.svg": "/Mailchimp_landing_page/static/media/Arrowback.fdf5a75f.svg",
   "static/media/phone-solid.svg": "/Mailchimp_landing_page/static/media/phone-solid.de37f482.svg",
-  "static/css/main.858dd76f.chunk.css.map": "/Mailchimp_landing_page/static/css/main.858dd76f.chunk.css.map",
+  "static/css/main.d99bdc82.chunk.css.map": "/Mailchimp_landing_page/static/css/main.d99bdc82.chunk.css.map",
   "static/css/1.0cc71d81.chunk.css.map": "/Mailchimp_landing_page/static/css/1.0cc71d81.chunk.css.map",
   "index.html": "/Mailchimp_landing_page/index.html",
-  "precache-manifest.31b5dd22a679dcb48bf6088addce8b30.js": "/Mailchimp_landing_page/precache-manifest.31b5dd22a679dcb48bf6088addce8b30.js",
+  "precache-manifest.40895bdf0b7e95f0dae6dea5d6577262.js": "/Mailchimp_landing_page/precache-manifest.40895bdf0b7e95f0dae6dea5d6577262.js",
   "service-worker.js": "/Mailchimp_landing_page/service-worker.js"
 }

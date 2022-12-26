@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mailchimp_landing_page/precache-manifest.31b5dd22a679dcb48bf6088addce8b30.js"
+  "/Mailchimp_landing_page/precache-manifest.40895bdf0b7e95f0dae6dea5d6577262.js"
 );
 
 workbox.clientsClaim();
